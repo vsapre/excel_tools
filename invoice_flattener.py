@@ -5,7 +5,7 @@
 # Vishal Sapre added missing and generic rules, which would apply to multiple invoices
 # Vishal Sapre added further text patterns seen across multiple invoices...WIP
 #
-# LICENCE: BSD
+# LICENCE: MIT
 # Date: 15/10/2025
 # ===============================================================================
 import pandas as pd
