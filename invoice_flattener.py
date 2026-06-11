@@ -1,5 +1,5 @@
 # ===============================================================================
-# GST Flattening Tool
+# Invoice Flattening Tool
 # Started as a chat with Claude.ai, where it created the main structure of the
 # tool based on a single invoice example.
 # Vishal Sapre added missing and generic rules, which would apply to multiple invoices
